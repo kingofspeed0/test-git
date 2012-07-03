@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		B42804CC15A15A77004AD82A /* CustomViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B42804CB15A15A77004AD82A /* CustomViewCell.m */; };
 		B42804D015A15AD6004AD82A /* Customcell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B42804CF15A15AD6004AD82A /* Customcell.xib */; };
-		B42804D315A15C8E004AD82A /* delete.png in Resources */ = {isa = PBXBuildFile; fileRef = B42804D215A15C8E004AD82A /* delete.png */; };
+		B433725D15A2ADC4006D9224 /* delete.png in Resources */ = {isa = PBXBuildFile; fileRef = B433725C15A2ADC4006D9224 /* delete.png */; };
 		B4E73D6F15A14EE40091AD31 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4E73D6E15A14EE40091AD31 /* UIKit.framework */; };
 		B4E73D7115A14EE50091AD31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4E73D7015A14EE40091AD31 /* Foundation.framework */; };
 		B4E73D7315A14EE50091AD31 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4E73D7215A14EE50091AD31 /* CoreGraphics.framework */; };
@@ -24,7 +24,7 @@
 		B42804CA15A15A77004AD82A /* CustomViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomViewCell.h; sourceTree = "<group>"; };
 		B42804CB15A15A77004AD82A /* CustomViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomViewCell.m; sourceTree = "<group>"; };
 		B42804CF15A15AD6004AD82A /* Customcell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Customcell.xib; sourceTree = "<group>"; };
-		B42804D215A15C8E004AD82A /* delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = delete.png; path = ../../../../Desktop/delete.png; sourceTree = "<group>"; };
+		B433725C15A2ADC4006D9224 /* delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = delete.png; path = ../delete.png; sourceTree = "<group>"; };
 		B4E73D6A15A14EE40091AD31 /* ContactManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4E73D6E15A14EE40091AD31 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B4E73D7015A14EE40091AD31 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -67,7 +67,7 @@
 		B42804D115A15C74004AD82A /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				B42804D215A15C8E004AD82A /* delete.png */,
+				B433725C15A2ADC4006D9224 /* delete.png */,
 			);
 			name = Resource;
 			sourceTree = "<group>";
@@ -178,7 +178,7 @@
 				B4E73D7915A14EE50091AD31 /* InfoPlist.strings in Resources */,
 				B4E73D8515A14EE50091AD31 /* ViewController.xib in Resources */,
 				B42804D015A15AD6004AD82A /* Customcell.xib in Resources */,
-				B42804D315A15C8E004AD82A /* delete.png in Resources */,
+				B433725D15A2ADC4006D9224 /* delete.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
