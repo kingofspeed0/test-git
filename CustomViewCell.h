@@ -1,7 +1,7 @@
 //
 //  CustomViewCell.h
 //  ContactManager
-//
+//haizz test git
 //  Created by Tuyen Nguyen on 7/2/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
